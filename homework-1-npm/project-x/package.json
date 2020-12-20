@@ -1,0 +1,18 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Maksim Lobachevskiy, Group FE23",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/dan-it/groups/pe27/-/tree/master/advanced-html-css/homework/homework-1-npm"
+  },
+  "author": "Maksim.L",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
