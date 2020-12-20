@@ -4,15 +4,22 @@
   "description": "Maksim Lobachevskiy, Group FE23",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/dan-it/groups/pe27/-/tree/master/advanced-html-css/homework/homework-1-npm"
+    "url": "https://gitlab.com/lobachevskiy.maksim/advanced-hw/-/tree/master/homework-1-npm/project-x"
   },
   "author": "Maksim.L",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "eslint": "^7.16.0",
     "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "moment": "^2.29.1"
   }
 }
